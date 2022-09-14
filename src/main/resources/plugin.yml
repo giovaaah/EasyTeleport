@@ -1,0 +1,9 @@
+name: EasyTeleport
+version: '${project.version}'
+main: it.articland.easyteleport.EasyTeleport
+
+commands:
+  tp:
+    description: "Tp base command"
+  tpall:
+    description: "Tpall base command"

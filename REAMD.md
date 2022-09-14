@@ -1,11 +1,10 @@
 ## EasyTeleport
 
-Too Much sample Java plugin 
+Too Much simple Java plugin (Refactored by Natrium with <3)
 
 ## 🔧 _About_
 
 A simple plugin I created for fun (actually to train .) you are free to skid all the code.
-
 
 ## ✏️ _Commands_
 
