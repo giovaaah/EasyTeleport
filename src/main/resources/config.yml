@@ -1,0 +1,5 @@
+Messages:
+  HelpMessage: "&4You need to put the id of the user\n&4To teleport yourself write /tp <otherplayer>\n&eTo teleport other player write /tp <player> <otherplayer>"
+  NoPermissions: "&eNo permissions to do that!"
+  NoTargetFound: "&eNo target found"
+  TeleportedTo: "&eYou've been teleported to &c%target%"
