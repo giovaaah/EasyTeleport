@@ -1,6 +1,7 @@
 ## EasyTeleport
 
-Too Much sample Java plugin 
+Java Plugin for tp
+
 
 ## 🔧 _About_
 
